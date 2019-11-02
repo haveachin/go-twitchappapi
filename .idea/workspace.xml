@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f1dff75-c4db-4aca-8522-ecfd5b05a7a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Haveachin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/twitchappapi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addon_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/category.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/category_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minecraft.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minecraft_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modloader.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modloader_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/request.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
